@@ -1,6 +1,8 @@
 # gato_ou_cachorro
 
-A new Flutter project.
+Projeto em flutter de classificação de imagens entre fotos de gatos ou de cachorros, utilizando modelo de machine learning do Tensor Flow Lite.
+
+Projeto original: https://heartbeat.fritz.ai/build-a-cat-or-dog-classification-flutter-app-tensorflow-lite-7b57223d7754
 
 ## Getting Started
 
